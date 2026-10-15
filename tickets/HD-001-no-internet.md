@@ -35,7 +35,7 @@ The initial connectivity and DNS checks succeeded. Asked the user to report whet
 
 Evidence
 
-Sanitized screenshots and command output will be added after testing.
+Command outputs will be captured and added after removing any sensitive network information.
 
 Lessons Learned
 
