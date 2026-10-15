@@ -1,0 +1,38 @@
+HD-001: Windows Computer Cannot Access the Internet
+
+Status: In progress
+Category: Network connectivity
+Priority: Medium
+Scenario: Simulated help desk incident
+
+User Report
+
+An employee reports that their computer cannot access the internet.
+
+Troubleshooting Plan
+
+1. Check the network adapter and connection status.
+2. Run ipconfig /all to inspect IP addressing, the default gateway, and DNS configuration.
+3. Run ping 127.0.0.1 to test the local TCP/IP stack.
+4. Test connectivity to the default gateway if one is configured.
+5. If appropriate, test an external IP address and hostname resolution separately.
+
+Findings
+
+To be completed after testing.
+
+Resolution or Next Steps
+
+To be completed after testing. The root cause will not be assumed without supporting evidence.
+
+User Communication
+
+To be completed after testing.
+
+Evidence
+
+Sanitized screenshots and command output will be added after testing.
+
+Lessons Learned
+
+To be completed after testing.
