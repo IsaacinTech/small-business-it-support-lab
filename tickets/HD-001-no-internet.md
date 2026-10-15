@@ -27,7 +27,7 @@ Findings
 
 Resolution or Next Steps
 
-To be completed after testing. The root cause will not be assumed without supporting evidence.
+No corrective action was necessary based on the test results. If the employee continued experiencing the issue, gather the affected website, error message, time of occurrence, and whether other devices were affected.
 
 User Communication
 
