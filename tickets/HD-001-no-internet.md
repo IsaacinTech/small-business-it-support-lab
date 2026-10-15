@@ -38,5 +38,4 @@ Evidence
 Command outputs will be captured and added after removing any sensitive network information.
 
 Lessons Learned
-
-To be completed after testing.
+Test the local TCP/IP stack, default gateway, external IP connectivity, and DNS resolution separately. Use the results to narrow down the cause rather than assuming the internet connection is broken.
