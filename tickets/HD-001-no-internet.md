@@ -31,7 +31,7 @@ No corrective action was necessary based on the test results. If the employee co
 
 User Communication
 
-To be completed after testing.
+The initial connectivity and DNS checks succeeded. Asked the user to report whether the problem continued and to provide the affected website or error message.
 
 Evidence
 
