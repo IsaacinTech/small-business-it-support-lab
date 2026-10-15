@@ -19,7 +19,11 @@ Troubleshooting Plan
 
 Findings
 
-To be completed after testing.
+* ping 127.0.0.1: 4 sent, 4 received, 0% packet loss.
+* ping 10.128.128.128: 4 sent, 4 received, 0% packet loss.
+* ping 1.1.1.1: 4 sent, 4 received, 0% packet loss.
+* nslookup example.com: Returned IP addresses, indicating DNS resolution succeeded.
+* Assessment: All tested connectivity checks succeeded. No active internet connectivity or DNS failure was reproduced during this diagnostic session.
 
 Resolution or Next Steps
 
