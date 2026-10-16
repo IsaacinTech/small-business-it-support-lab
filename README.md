@@ -37,6 +37,16 @@ Local Connectivity Test
 Gateway and External Connectivity Tests
 
 DNS Resolution Test
+## screenshots
+
+### 1. local connectivity test
+![local ping](screenshots/local-ping.png)
+
+### 2. gateway and external connectivity tests
+![connectivity tests](screenshots/connectivity-test.png)
+
+### 3. dns resolution test
+![dns test](screenshots/dns-test.png)
 
 Key Takeaways
 
