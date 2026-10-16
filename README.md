@@ -43,7 +43,7 @@ DNS Resolution Test
 ![local ping](screenshots/local-ping.png)
 
 ### 2. gateway and external connectivity tests
-![connectivity tests](screenshots/connectivity-test.png)
+![connectivity tests](screenshots/connectivity-tests.png)
 
 ### 3. dns resolution test
 ![dns test](screenshots/dns-test.png)
