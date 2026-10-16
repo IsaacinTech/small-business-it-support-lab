@@ -1,44 +1,46 @@
-# small-business-it-support-lab
-Hands-on IT support lab demonstrating Windows troubleshooting, network diagnostics, incident documentation, and help desk workflows.
 Small Business IT Support Lab
 
-Overview
+Project Overview
 
-This project simulates Tier 1 IT support for a small business. It documents troubleshooting workflows, network diagnostics, incident handling, and end-user support.
+This project demonstrates hands-on Tier 1 help desk troubleshooting in a simulated Windows environment. The objective was to investigate a reported internet connectivity issue, perform network diagnostics, document findings, and organize technical evidence.
 
-Objectives
+Incident Summary
 
-* Troubleshoot common Windows connectivity issues.
-* Use command-line tools to diagnose network problems.
-* Build and test a small network in Cisco Packet Tracer.
-* Document support incidents and verified resolutions.
-* Create reusable knowledge-base articles for end users.
+* Ticket ID: HD-001
+* Issue: Reported internet connectivity problems
+* Category: Network Connectivity
+* Status: Investigated
 
-Lab Environment
+Tools Used
 
-* Windows client computer
-* Command Prompt and built-in Windows diagnostic tools
-* Cisco Packet Tracer
-* GitHub for project documentation
+* Windows Command Prompt
+* ping
+* nslookup
+* GitHub
 
-Project Status
+Troubleshooting Steps
 
-In progress. Lab scenarios, test results, screenshots, and troubleshooting documentation will be added as they are completed.
+1. Tested local TCP/IP connectivity using ping 127.0.0.1.
+2. Tested gateway connectivity using ping 10.128.128.128.
+3. Tested external IP connectivity using ping 1.1.1.1.
+4. Tested DNS name resolution using nslookup example.com.
+5. Documented results and captured screenshots of the tests.
 
-Planned Support Scenarios
+Results and Findings
 
-1. No internet connectivity
-2. DNS resolution failure
-3. Account access issue
-4. Shared folder access issue
-5. Slow computer
-6. Printer troubleshooting
-7. New employee onboarding
+All connectivity tests succeeded during the session. The reported issue could not be reproduced during testing. Results were documented accurately without claiming to resolve an outage that could not be reproduced.
 
-Skills Demonstrated
+Screenshots
 
-Windows troubleshooting, networking fundamentals, diagnostic reasoning, technical documentation, incident management, and user communication.
+Local Connectivity Test
 
-Evidence and Results
+Gateway and External Connectivity Tests
 
-Test results, sanitized screenshots, network diagrams, and verified resolutions will be documented as the lab progresses.
+DNS Resolution Test
+
+Key Takeaways
+
+* Practiced systematic Windows network troubleshooting.
+* Used command-line tools to test connectivity and DNS resolution.
+* Documented findings in a structured help desk workflow.
+* Organized technical evidence in GitHub for portfolio presentation.
